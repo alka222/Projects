@@ -93,4 +93,3 @@ function addForm(e) {
             usersList.removeChild(childNodeToBeDeleted);
         }
     }
-
